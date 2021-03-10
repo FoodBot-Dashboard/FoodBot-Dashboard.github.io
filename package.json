@@ -1,0 +1,11 @@
+{
+  "name": "foodbot.clvrk.xyz",
+  "version": "1.0.0",
+  "description": "Website for the FoodBot Discord bot, not to be mistaken with 'Food Bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "clvrk",
+  "license": "ISC"
+}
