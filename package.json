@@ -9,6 +9,5 @@
   "author": "clvrk",
   "license": "ISC",
   "dependencies": {
-    "simplebar": "^5.3.0"
   }
 }
