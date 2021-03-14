@@ -16,7 +16,7 @@
 }
 ::-webkit-scrollbar-thumb:hover {
     border-radius: 5px;
-    background-color: rgba(150, 71, 71, 0.473);
+    background-color: rgba(179, 90, 90, 0.473);
 }
 .webSurface {
     background-color: rgb(34, 25, 25);
@@ -50,11 +50,13 @@
     color: white;
     font-size: 23px;
     padding: 6px 20px;
-    transition: .7s
+    transition: .7s;
+    background: rgba(236, 104, 104, 0.473);
+    border-radius: 10px;
 }
 .navbar ul li a:hover {
-    background: rgba(236, 104, 104, 0.473);
-    border-radius: 15px;
+    background: rgba(236, 104, 104, 0.295);
+    transition: .7s;
 }
 .webSurface .text .dir1 {
     position: absolute;
