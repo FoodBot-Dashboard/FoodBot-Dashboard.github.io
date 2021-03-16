@@ -15,7 +15,6 @@
     background-color: rgba(236, 104, 104, 0.473);
 }
 ::-webkit-scrollbar-thumb:hover {
-    border-radius: 5px;
     background-color: rgba(179, 90, 90, 0.473);
 }
 .webSurface {
