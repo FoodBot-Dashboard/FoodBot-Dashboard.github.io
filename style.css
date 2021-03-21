@@ -132,3 +132,23 @@
     transform: scale(1.06);
     transition: .5s;
 }
+@media (min-width: 1000px) {
+    .d1 {
+        position: absolute;
+        top: 52%;
+        left: 75%;
+        transform: translate(-70%, -80%);
+    }
+    .d2 {
+        position: absolute;
+        top: 97%;
+        left: 75%;
+        transform: translate(-70%, -80%);
+    }
+    .d3 {
+        position: absolute;
+        top: 150%;
+        left: 75%;
+        transform: translate(-70%, -80%);
+    }
+}
