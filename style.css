@@ -132,7 +132,7 @@
     transform: scale(1.06);
     transition: .5s;
 }
-@media (min-width: 1000px) {
+@media (min-width: 1400px) {
     .d1 {
         position: absolute;
         top: 52%;
